@@ -24,7 +24,7 @@ A guy that is carrying loads of passions and ambitions. Currently is a naughty u
 
 -->
 
-### 📈 **Github:**
+## 📈 **Github:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -34,7 +34,7 @@ A guy that is carrying loads of passions and ambitions. Currently is a naughty u
 
 <br />
 
-#### 🛠️ **Languages & Tools:**
+## 🛠️ **Languages & Tools:**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
