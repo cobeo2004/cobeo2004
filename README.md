@@ -1,4 +1,4 @@
-###Welcome to Simon github!👋
+### Welcome to Simon github!👋
 #### 18 + 2 and proud to be Vietnamese 🇻🇳
 A kind of boring person but carrying loads of passions and ambitions. Currently being a naughty uni student at Melbourne, VIC, Australia.
 
