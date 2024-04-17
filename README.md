@@ -40,18 +40,18 @@ A guy that is carrying loads of passions and ambitions. Currently is a naughty u
 ![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 **Connect to me:** ️
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cobeo2004)  
+[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>](https://github.com/cobeo2004)  
 [<img src='https://img.shields.io/badge/LinkedIn-xuan--tuan--minh--nguyen-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5' />](https://www.linkedin.com/in/https://www.linkedin.com/in/xuân-tuấn-minh-nguyễn-7836822b5//)  
+[<img src='https://img.shields.io/badge/Facebook-Tuan--Minh-brightgreen?style=for-the-badge&labelColor=black&logo=facebook' />](https://www.facebook.com/profile.php?id=100022930086716)  
+[<img src='https://img.shields.io/badge/Instagram-immsimonnn__?style=for-the-badge&logo=instagram&logoColor=white' />](https://www.instagram.com/immsimonnnn__)  
 
-[<img src='https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook' />](https://www.facebook.com/profile.php?id=100022930086716)  
-[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'>](https://www.instagram.com/immsimonnnn__)  
 <!--
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 -->
