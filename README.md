@@ -1,7 +1,7 @@
 
 ## <p align="center">Welcome to Simon github!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"></p>
 #### 18 + 2 and proud to be Vietnamese 🇻🇳
-A kind of boring person but carrying loads of passions and ambitions. Currently being a naughty uni student at Melbourne, VIC, Australia.
+A guy that is carrying loads of passions and ambitions. Currently is a naughty uni student at Melbourne, VIC, Australia.
 
 - 🔭 I’m currently working on Swinburne University of Technology as a student. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity. 
