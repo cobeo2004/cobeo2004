@@ -26,11 +26,11 @@ A guy that is carrying loads of passions and ambitions. Currently is a naughty u
 
 ## 📈 **Github:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004" alt="Simon Langs" /></p>)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cobeo2004&show_icons=true)  
+![GitHub stats](<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobeo2004&show_icons=true" alt="Simon Stats" /></p>)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=cobeo2004)  
+![GitHub streak stats](<p align="center"><img src="https://streak-stats.demolab.com/?user=cobeo2004" /></p>)  
 
 <br />
 
