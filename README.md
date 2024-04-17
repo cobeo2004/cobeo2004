@@ -10,7 +10,7 @@
 </p>
 <br />
 
-#### 18 + 2 and proud to be Vietnamese 🇻🇳
+## 18 + 2 and proud to be Vietnamese 🇻🇳
 A guy that is carrying loads of passions and ambitions. Currently is a naughty uni student at Melbourne, VIC, Australia.
 
 - 🔭 I’m currently working on Swinburne University of Technology as a student. 
