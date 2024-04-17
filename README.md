@@ -1,5 +1,14 @@
 
-## <p align="center">Welcome to Simon github!<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"></p>
+## <p align="center">Welcome to Simon's Github Page !<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"></p>
+
+
+<p align="center">
+  <a href="https://github.com/cobeo2004/cobeo2004/blob/master/LICENCE">
+    <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=cobeo2004&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/cobeo2004/cobeo2004?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+</p>
 #### 18 + 2 and proud to be Vietnamese 🇻🇳
 A guy that is carrying loads of passions and ambitions. Currently is a naughty uni student at Melbourne, VIC, Australia.
 
