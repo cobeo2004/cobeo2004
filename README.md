@@ -11,7 +11,8 @@
 <br />
 
 ## 18 + 2 and proud to be Vietnamese 🇻🇳
-A guy that is carrying loads of passions and ambitions. Currently is a naughty uni student at Melbourne, VIC, Australia.
+The guy who owns this repo is carrying loads of passions and ambitions on his shoulder. Currently is a naughty uni student at Melbourne, VIC, Australia.
+"Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(" - Simon
 
 - 🔭 I’m currently working on Swinburne University of Technology as a student. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity. 
