@@ -56,7 +56,8 @@
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>](https://github.com/cobeo2004)  
 [<img src='https://img.shields.io/badge/LinkedIn-xuan--tuan--minh--nguyen-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5' />](https://www.linkedin.com/in/https://www.linkedin.com/in/xuân-tuấn-minh-nguyễn-7836822b5//)  
 [<img src='https://img.shields.io/badge/Facebook-Tuan--Minh-brightgreen?style=for-the-badge&labelColor=black&logo=facebook' />](https://www.facebook.com/profile.php?id=100022930086716)  
-[<img src='https://img.shields.io/badge/Instagram-immsimonnn__?style=for-the-badge&logo=instagram&logoColor=white' />](https://www.instagram.com/immsimonnnn__)  
+[<img src='https://img.shields.io/badge/Instagram-immsimonnnn____---?style=for-the-badge&logo=instagram&logoColor=white' />](https://www.instagram.com/immsimonnnn__)
+[Gmail][<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />]
 
 <!--
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
