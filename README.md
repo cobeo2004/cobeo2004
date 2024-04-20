@@ -11,9 +11,7 @@
 <br />
 
 ## 18 + 2 and proud to be Vietnamese 🇻🇳
-The guy who owns this repo is carrying loads of passions and ambitions on his shoulder. Currently is a naughty uni student at Melbourne, VIC, Australia. <br />
-"Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(" - Simon
-
+- "Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(" - Simon
 - 🔭 I’m currently working on Swinburne University of Technology as a student. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity. 
 - 💬 Ask me about Everything, but don't grind on me :) 
