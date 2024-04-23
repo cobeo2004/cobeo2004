@@ -14,8 +14,8 @@
 - "Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(" - Simon
 - 🔭 I’m currently working on Swinburne University of Technology as a student. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity. 
-- 💬 Ask me about Everything, but don't grind on me :) 
-- 📫 How to reach me: Just reach me through these icons below icons ! 
+- 💬 Feel free to ask me, but for the sake of god do not cook on me :) 
+- 📫 How to reach me: Spend some of your time scrolling to Connect To Me section then ? 
 - 😄 Pronouns: he/him (ofc) 
 
 <!--
