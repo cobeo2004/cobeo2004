@@ -11,7 +11,7 @@
 <br />
 
 ## 18 + 2 and proud to be Vietnamese 🇻🇳
-- "Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(" - Simon
+- Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(
 - 🔭 I’m currently working on Swinburne University of Technology as a student. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity. 
 - 💬 Feel free to ask me, but for the sake of god do not cook on me :) 
