@@ -16,7 +16,8 @@
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity. 
 - 💬 Feel free to ask me, but for the sake of god do not cook on me :) 
 - 📫 How to reach me: Spend some of your time scrolling to Connect To Me section then ? 
-- 😄 Pronouns: he/him (ofc) 
+- 😄 Pronouns: he/him (ofc)
+- 📣 Updated: 25th of June
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cobeo2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/xuân-tuấn-minh-nguyễn-7836822b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100022930086716)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/immsimonnnn__)  
