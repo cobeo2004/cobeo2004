@@ -31,6 +31,8 @@
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=cobeo2004" /></p>
 
+<p align="center"><img src="https://github.com/cobeo2004/portfolio-nextjs/blob/output/github-contribution-grid-snake.svg" /></p>
+
 <br />
 
 ## 🛠️ **Languages & Tools:**
