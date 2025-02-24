@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity, but I'm focusing on developing Web Apps and Mobile Apps by using frameworks that spins around React ecosystem. 
 - 📫 How to reach me: Please scroll to connect with me
 - 😄 Pronouns: he/him (ofc)
-- 📣 Updated: 25th of June
 
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cobeo2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/xuân-tuấn-minh-nguyễn-7836822b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100022930086716)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/immsimonnnn__)  
@@ -68,7 +67,4 @@
 [<img src='https://img.shields.io/badge/Instagram-immsimonnnn____---?style=for-the-badge&logo=instagram&logoColor=white' />](https://www.instagram.com/immsimonnnn__)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](nxuantuaminh@gmail.com)
 
-<!--
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
--->
 
