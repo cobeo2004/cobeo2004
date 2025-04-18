@@ -11,7 +11,7 @@
 <br />
 
 ## 18 + 2 and proud to be Vietnamese 🇻🇳
-- Tài không đợi tuổi, cụ thể là tài lanh, tài lẻ, tài xỉu, tài phạt góc tại fb88.com nhà cái đến từ Châu Âu :(
+- ✧˖ Chọn cách bỏ cuộc và thả rơi bản thân vào đáy sâu của vực thẳm vĩnh hằng hay chọn cách đứng dậy và tiếp tục hành trình viết tiếp một chương rực rỡ của đời người, tất cả đều là do ý chí của bạn !
 - 🔭 I’m a senior student at Swinburne University of Technology. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity, but I'm focusing on developing Web Apps and Mobile Apps by using frameworks that spins around React ecosystem. 
 - 📫 How to reach me: Please scroll to connect with me
