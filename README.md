@@ -11,7 +11,7 @@
 <br />
 
 ## 18 + 2 and proud to be Vietnamese 🇻🇳
-- ✧˖ Chọn cách bỏ cuộc và thả rơi bản thân vào đáy sâu của vực thẳm vĩnh hằng hay chọn cách đứng dậy và tiếp tục hành trình viết tiếp một chương rực rỡ của đời người, tất cả đều là do ý chí của bạn !
+- ✧˖ Thả rơi bản thân vào đáy sâu của vực thẳm vĩnh hằng hay tiếp tục hành trình viết tiếp một chương rực rỡ của đời người, tất cả đều là do ý chí của bạn !
 - 🔭 I’m a senior student at Swinburne University of Technology. 
 - 🌱 I’m currently learning Bachelor of Artificial Intelligence and Cybersecurity, but I'm focusing on developing Web Apps and Mobile Apps by using frameworks that spins around React ecosystem. 
 - 📫 How to reach me: Please scroll to connect with me
@@ -24,11 +24,11 @@
 
 ## 📈 **Github:**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004" alt="Simon Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004&show_icons=true&theme=radical" alt="Simon Langs" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobeo2004&show_icons=true" alt="Simon Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobeo2004&show_icons=true&theme=radical" alt="Simon Stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=cobeo2004" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=cobeo2004&theme=radical" /></p>
 
 <p align="center"><img src="https://github.com/cobeo2004/portfolio-nextjs/blob/output/github-contribution-grid-snake.svg" /></p>
 
