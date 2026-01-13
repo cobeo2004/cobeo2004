@@ -10,7 +10,7 @@
 </p>
 <br />
 
-## 18 + 2 and proud to be Vietnamese 🇻🇳
+## 18 + 3 🇻🇳
 - ✧˖ 命がある限り、全力で戦うしかないのでしょうね
 - 🔭 Graduated @ Swinburne University of Technology. 
 - 🌱 Finished Bachelor of Artificial Intelligence and Cybersecurity, right now focusing on developing Web Apps and Mobile Apps within Node.js (Bun) ecosystem.
