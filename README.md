@@ -24,11 +24,11 @@
 
 ## 📈 **Github:**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004&show_icons=true&theme=radical" alt="Simon Langs" /></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cobeo2004&show_icons=true&theme=radical" alt="Simon Langs" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobeo2004&show_icons=true&theme=radical" alt="Simon Stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=cobeo2004&theme=radical" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=cobeo2004&theme=radical" /></p> -->
 
 <p align="center"><img src="https://github.com/cobeo2004/portfolio-nextjs/blob/output/github-contribution-grid-snake.svg" /></p>
 
