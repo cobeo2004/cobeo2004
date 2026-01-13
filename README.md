@@ -13,7 +13,7 @@
 ## 18 + 2 and proud to be Vietnamese 🇻🇳
 - ✧˖ 命がある限り、全力で戦うしかないのでしょうね
 - 🔭 Graduated @ Swinburne University of Technology. 
-- 🌱 Attended Bachelor of Artificial Intelligence and Cybersecurity, focusing on developing Web Apps and Mobile Apps by using frameworks that spins around React ecosystem. Also extending knowledges with Rust, Go and Kotlin 
+- 🌱 Finished Bachelor of Artificial Intelligence and Cybersecurity, right now focusing on developing Web Apps and Mobile Apps within Node.js (Bun) ecosystem.
 - 📫 How to reach me: Please scroll to connect with me
 - 😄 Pronouns: he/him (ofc)
 
