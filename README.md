@@ -1,5 +1,5 @@
 
-# <p align="center">Welcome to Simon's Github Page !<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"></p>
+# <p align="center">Simon Nguyen-サイモン<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"></p>
 
 <p align="center">
   <a href="https://github.com/cobeo2004/cobeo2004/blob/master/LICENCE">
@@ -10,11 +10,10 @@
 </p>
 <br />
 
-## 18 + 3 🇻🇳
+## 18 + 3 && 🇻🇳
 - ✧˖ 命がある限り、全力で戦うしかないのでしょうね
 - 🔭 Graduated @ Swinburne University of Technology. 
-- 🌱 Finished Bachelor of Artificial Intelligence and Cybersecurity, right now focusing on developing Web Apps and Mobile Apps within Node.js (Bun) ecosystem.
-- 📫 How to reach me: Please scroll to connect with me
+- 🌱 Towarding the AI era.
 - 😄 Pronouns: he/him (ofc)
 
 <!--
