@@ -10,8 +10,9 @@
 </p>
 <br />
 
-## 18 + 3 && 🇻🇳
-- ✧˖ 命がある限り、全力で戦うしかないのでしょうね
+## 18 + 3 & 🇻🇳
+- ✧˖ がある限り、全力で戦うしかないのでしょうね
+- 💼 Junior @ Arcadian Digital
 - 🔭 Graduated @ Swinburne University of Technology. 
 - 🌱 Towarding the AI era.
 - 😄 Pronouns: he/him (ofc)
