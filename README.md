@@ -10,7 +10,7 @@
 </p>
 <br />
 
-## 18 + 3 & 🇻🇳
+## 18 + 4 & 🇻🇳
 - ✧˖ がある限り、全力で戦うしかないのでしょうね
 - 💼 Junior @ Arcadian Digital
 - 🔭 Graduated @ Swinburne University of Technology. 
