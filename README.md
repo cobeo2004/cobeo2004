@@ -13,8 +13,8 @@
 ## 18 + 4 & 🇻🇳
 - ✧˖ がある限り、全力で戦うしかないのでしょうね
 - 💼 Junior @ Arcadian Digital
+- 🏆 Winner of AABW's Founder Track by GenAI Fund
 - 🔭 Graduated @ Swinburne University of Technology. 
-- 🌱 Towarding the AI era.
 - 😄 Pronouns: he/him (ofc)
 
 <!--
