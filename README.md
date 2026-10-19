@@ -1,76 +1,61 @@
+<div align="center">
 
-# <p align="center">Simon Nguyen-サイモン<img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px"></p>
+<img src="https://github.com/cobeo2004.png" alt="Simon Nguyen" width="120" style="border-radius: 50%" />
 
-<p align="center">
-  <a href="https://github.com/cobeo2004/cobeo2004/blob/master/LICENCE">
-    <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
-  </a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=cobeo2004&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/cobeo2004/cobeo2004?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</p>
-<br />
+# Simon Nguyen · サイモン
 
-## 18 + 4 & 🇻🇳
-- ✧˖ がある限り、全力で戦うしかないのでしょうね
-- 🏆 Winner of AABW's Founder Track by GenAI Fund
-- 🔭 Graduated @ Swinburne University of Technology. 
-- 😄 Pronouns: he/him (ofc)
+**Software engineer — backend, distributed systems and AI integration.**<br/>
+*Shipping qualities, not quantities.*
 
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cobeo2004)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/xuân-tuấn-minh-nguyễn-7836822b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100022930086716)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/immsimonnnn__)  
+[![Website](https://img.shields.io/badge/simon--nguyen.space-000000?style=flat&logo=vercel&logoColor=white)](https://simon-nguyen.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xu%C3%A2n-tu%E1%BA%A5n-minh-nguy%E1%BB%85n-7836822b5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nxuantuanminh@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=cobeo2004&style=flat&color=29bf12&label=views)](https://github.com/cobeo2004)
 
--->
+</div>
 
-## 📈 **Github:**
+---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=cobeo2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Simon Langs" /></p>
+Melbourne-based engineer from 🇻🇳, Computer Science graduate of Swinburne University of Technology. I work across the stack, but I'm happiest on the backend: services, data and the systems that keep them running at scale. Lately that means wiring LLMs and agents into real products as a forward-deployed / full-stack engineer.
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cobeo2004&theme=radical&hide_border=false" alt="Simon Stats" /></p>
+> ✧˖ がある限り、全力で戦うしかないのでしょうね
 
-<p align="center"><img src="https://github.com/cobeo2004/portfolio-nextjs/blob/output/github-contribution-grid-snake.svg" /></p>
+- **Now** — building at Arcadian Digital × Teqar × Unibuz
+- **Recognition** — winner of the Founder track at Agentic AI Build Week (AABW) by GenAI Fund
+- **Interests** — distributed systems, databases, edge runtimes, AI agents
 
-<br />
+## Featured projects
 
-## 🛠️ **Languages & Tools:**
+| Project | What it is | Stack |
+|---|---|---|
+| [**kitsune**](https://github.com/cobeo2004/kitsune) | Distributed search engine with service discovery and gossip-based membership | Go · Bleve · etcd · Consul · Memberlist |
+| [**edge**](https://github.com/cobeo2004/edge) | Edge function runtime built on top of `deno-http-worker` | TypeScript · Deno |
+| [**trpc-redis**](https://github.com/cobeo2004/trpc-redis) | Redis adapter for tRPC | TypeScript · Redis |
+| [**pocketbase-ha**](https://github.com/cobeo2004/pocketbase-ha) | Highly available leader / leaderless PocketBase cluster on the go-ha `database/sql` driver | Go · SQLite |
+| [**convex-scaled**](https://github.com/cobeo2004/convex-scaled) | Fork of Convex, the open-source reactive database | TypeScript · Rust |
+| [**rsdecider-inference**](https://github.com/House-of-Imaginations/rsdecider-inference) | Inference layer for Laya | Rust |
 
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2311A2F0.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23E83115.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)
-![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?logo=gleam&logoColor=000)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br />
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn/ui&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) <br/>
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=Drizzle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br/>
-![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+> [!TIP]
+> More work, write-ups and case studies live on [simon-nguyen.space](https://simon-nguyen.space).
 
-## 🌐 **Connect to me:** ️
+## Tech stack
 
-[<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>](https://github.com/cobeo2004)  
-[<img src='https://img.shields.io/badge/LinkedIn-xuan--tuan--minh--nguyen-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5' />](https://www.linkedin.com/in/https://www.linkedin.com/in/xuân-tuấn-minh-nguyễn-7836822b5//)  
-[<img src='https://img.shields.io/badge/Facebook-Tuan--Minh-brightgreen?style=for-the-badge&labelColor=black&logo=facebook' />](https://www.facebook.com/profile.php?id=100022930086716)  
-[<img src='https://img.shields.io/badge/Instagram-immsimonnnn____---?style=for-the-badge&logo=instagram&logoColor=white' />](https://www.instagram.com/immsimonnnn__)
-[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](nxuantuaminh@gmail.com)
+| Area | Tools |
+|---|---|
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white) ![Elixir](https://img.shields.io/badge/Elixir-4B275F?logo=elixir&logoColor=white) ![Gleam](https://img.shields.io/badge/Gleam-FFAFF3?logo=gleam&logoColor=000) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=databricks&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) ![tRPC](https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white) ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?logo=phoenixframework&logoColor=white) |
+| **Frontend & mobile** | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-1C1E24?logo=expo&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000) |
+| **BaaS** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) ![PocketBase](https://img.shields.io/badge/PocketBase-B8DBE4?logo=pocketbase&logoColor=000) ![Convex](https://img.shields.io/badge/Convex-EE342F?logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?logo=appwrite&logoColor=white) |
+| **Infra & ML** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) |
 
+## GitHub activity
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cobeo2004&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=cobeo2004&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<img src="https://raw.githubusercontent.com/cobeo2004/portfolio-nextjs/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+
+</div>
