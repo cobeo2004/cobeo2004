@@ -20,7 +20,7 @@ Melbourne-based engineer from 🇻🇳, Computer Science graduate of Swinburne U
 
 > ✧˖ がある限り、全力で戦うしかないのでしょうね
 
-- **Now** — building at Arcadian Digital × Teqar × Unibuz
+- **Now** — building agents and learning new things !
 - **Recognition** — winner of the Founder track at Agentic AI Build Week (AABW) by GenAI Fund
 - **Interests** — distributed systems, databases, edge runtimes, AI agents
 
