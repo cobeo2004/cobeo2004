@@ -34,6 +34,7 @@ Melbourne-based engineer from 🇻🇳, Computer Science graduate of Swinburne U
 | [**pocketbase-ha**](https://github.com/cobeo2004/pocketbase-ha) | Highly available leader / leaderless PocketBase cluster on the go-ha `database/sql` driver | Go · SQLite |
 | [**convex-scaled**](https://github.com/cobeo2004/convex-scaled) | Fork of Convex, the open-source reactive database | TypeScript · Rust |
 | [**rsdecider-inference**](https://github.com/House-of-Imaginations/rsdecider-inference) | Inference layer for Laya | Rust |
+| [**sstack**](https://github.com/House-of-Imaginations/sstack) | My own set of skills for working with agents | Python · Markdown |
 
 > [!TIP]
 > More work, write-ups and case studies live on [simon-nguyen.space](https://simon-nguyen.space).
