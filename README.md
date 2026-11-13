@@ -4,8 +4,8 @@
 
 # Simon Nguyen · サイモン
 
-**Software engineer — backend, distributed systems and AI integration.**<br/>
-*Shipping qualities, not quantities.*
+**AI Engineer - backend, distributed systems and AI integration.**<br/>
+*building and contributing for better oss community.*
 
 [![Website](https://img.shields.io/badge/simon--nguyen.space-000000?style=flat&logo=vercel&logoColor=white)](https://simon-nguyen.space)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xu%C3%A2n-tu%E1%BA%A5n-minh-nguy%E1%BB%85n-7836822b5/)
@@ -20,7 +20,7 @@ Melbourne-based engineer from 🇻🇳, Computer Science graduate of Swinburne U
 
 > ✧˖ がある限り、全力で戦うしかないのでしょうね
 
-- **Now** — building agents and learning new things !
+- **Now** — building sstack and hive for oss !
 - **Recognition** — winner of the Founder track at Agentic AI Build Week (AABW) by GenAI Fund
 - **Interests** — distributed systems, databases, edge runtimes, AI agents
 
